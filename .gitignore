@@ -1,0 +1,9 @@
+# Ignored by GitGuard
+.vscode/
+__pycache__/
+*.pyc
+.env
+venv/
+.env/
+*.pkl
+*.joblib
